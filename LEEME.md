@@ -1,7 +1,7 @@
 # LEÉME PRIMERO
 **Este es el primer programa que he creado por un propósito """productivo""". Además, en ese momento, estaba estudiando en el segundo semestre de la carrera. Espero que lo entiendas**.
 
-# [ES] Registro de Juegos Completados v.1 en C
+# Registro de Juegos Completados v.1 en C
 Un programa sencillo que contiene un registro de juegos completados (la palabra "juego completado" se refiere más a "juego pasado" o "juego vencido").
 
 ## Una breve explicación de su uso
