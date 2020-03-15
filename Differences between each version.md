@@ -11,4 +11,5 @@
 | Support special characters              | No        | _Yes_*    | No               |
 | English language                        | No        | No        | No, but later... |
 
-*_I actually don't know. When I compile the source code in Geany IDE the program doesn't work with special characters. However, when I compile it in ZinjaI IDE it works perfectly... If anyone knows what's going on, please message me to know how to fix it to work every time I want!_
+*_Actually, I don't know. When I compile the source code in Geany IDE the program doesn't work with special characters. However, when I compile it in ZinjaI IDE it works perfectly... I think it's happening because of the version of the compiler or something related.
+If anyone knows what's going on, please message me to know how to fix it to work every time I want!_
