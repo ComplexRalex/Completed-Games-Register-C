@@ -15,8 +15,8 @@ Each game inside the program contains the following fields:
 * Completion year
 * Platforms
 
-## Why would I generate a HTML-Page of this?
-My main objective with this program was ease the task of adding games into a list. I update that one into [my website](https://mralexbross-web.blogspot.com/p/inicio.html) named "[Juegos completados (Beaten Games)](https://mralexbross-web.blogspot.com/p/played-games.html)".
+## Why would I generate an HTML-Page of this?
+My main objective with this program was to ease the task of adding games into a list. I update that one into [my website](https://mralexbross-web.blogspot.com/p/inicio.html) named "[Juegos completados (Beaten Games)](https://mralexbross-web.blogspot.com/p/played-games.html)".
 
 # [ES] Registro de Juegos Completados v.1 en C
 Un programa sencillo que contiene un registro de juegos completados (la palabra "juego completado" se refiere más a "juego pasado" o "juego vencido"). **Este es el primer programa que he creado por un propósito """productivo""". Además, en ese momento, estaba estudiando en el segundo semestre de la carrera. Espero que lo entiendas**.
