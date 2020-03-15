@@ -1,0 +1,12 @@
+|- - - - - - - - - -Información sobre parámetros- - - - - - - - - -|
+
+backup_count: Sirve para contar e incrementar la cantidad de backups realizados a los datos. También permite que se relizen copias de seguridad por cada vez que se haga un guardado. Se desactiva colocando un "-1" (de preferencia) o dejandolo vacío (este ultimo no esta comprobado).
+
+load_on_start: Si esta en "1" significa que se van a cargar los ultimos datos guardados al iniciar el programa. Se desactiva con "0" o cualquier otro numero.
+
+save_on_close: Si esta en "1" significa que se van a guardar los ultimos cambios realizados en el programa al finalizar (correctamente). Se desactiva con "0" o cualquier otro numero.
+
+
+|- - - - - - - - - -Información sobre copias de seguridad- - - - - - - - - -|
+
+Para poder cargar información a través de alguno de estos, es necesario pasar dicho archivo a la anterior carpeta y debe tener el nombre "playgames_latest.dat".
