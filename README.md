@@ -1,7 +1,7 @@
 # -> READ ME FIRST <-
 **This the first program I ever created for a """productive""" purpose. Also, at that time, I was studying in the second semester of the degree. I hope you understand**.
 
-# Completed-Games Register v.1 in C
+# Completed-Games Register in C
 A simple program (in Spanish) that contains a completed-games register (I meant, "beaten-games" register).
 
 ## A brief explanation of its usage
